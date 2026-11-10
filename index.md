@@ -1,5 +1,3 @@
-# DSC 180A – Methodology Assignment 4
-
 **Sharon Tey** | stey@ucsd.edu
 
 **Section D05** | Mentors: Prof. Haojian Jin (UCSD), Sylvia Downing (Azimuth AI), Michael Deisher (Azimuth AI)
